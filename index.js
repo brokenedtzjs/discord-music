@@ -1,5 +1,5 @@
 function test() {
-    console.log('test');
+    console.log('success');
 };
 module.exports = {
     test: test,
