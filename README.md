@@ -3,7 +3,7 @@
 <a><strong>Simply Discord Music</strong></a>
 
 [![Visistors](https://visitor-badge.glitch.me/badge?page_id=brokenedtzjs.discord-music)](https://github.com/brokenedtzjs/discord-music)
-[![Discord](https://img.shields.io/discord/984857299858382908?label=CyraTeam&logo=discord)](https://cyrabot.groups.id/discord/)
+[![Discord](https://img.shields.io/discord/984857299858382908?label=CyraTeam&logo=discord)](https://discord.gg/YyzghaDU9C)
 [![Stars](https://img.shields.io/github/stars/brokenedtzjs/discord-music?logo=github)](https://github.com/brokenedtzjs/discord-music)
 </div>
 
