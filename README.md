@@ -11,7 +11,9 @@
 
 ## Installation
 
-`$ npm install @brokenedtzjs/discord-music@latest`
+```npm
+$ npm install @brokenedtzjs/discord-music@latest
+```
 
 Or add this package to your `package.json` file:
 
@@ -22,7 +24,12 @@ Or add this package to your `package.json` file:
 ```
 
 ## Requirements
-
+- Node.js 16.9.0 or higher
+- [discord.js](https://discord.js.org) v13
+- [@discordjs/voice](https://github.com/discordjs/voice)
+- [FFmpeg](https://www.ffmpeg.org/download.html)
+- [@discordjs/opus](https://github.com/discordjs/opus)
+- [sodium](https://www.npmjs.com/package/sodium) or [libsodium-wrappers](https://www.npmjs.com/package/libsodium-wrappers)
 
 ## Quick Start
 ```js
