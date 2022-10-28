@@ -2,9 +2,12 @@
 <div align='center'>
 <a><strong>Simply Discord Music</strong></a>
 
-[![Visistors](https://visitor-badge.glitch.me/badge?page_id=brokenedtzjs.discord-music)](https://github.com/brokenedtzjs/discord-music)
-[![Discord](https://img.shields.io/discord/984857299858382908?label=CyraTeam&logo=discord)](https://discord.gg/YyzghaDU9C)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=brokenedtzjs.discord-music)](https://github.com/brokenedtzjs/discord-music)
+[![Discord](https://img.shields.io/discord/984857299858382908)](https://discord.gg/YyzghaDU9C)
 [![Stars](https://img.shields.io/github/stars/brokenedtzjs/discord-music?logo=github)](https://github.com/brokenedtzjs/discord-music)
+[![Issues](https://img.shields.io/github/issues/brokenedtzjs/discord-music)](https://github.com/brokenedtzjs/discord-music/issues)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fcyrabot)](https://twitter.com/cyrabot)
+
 </div>
 
 ## Installation
