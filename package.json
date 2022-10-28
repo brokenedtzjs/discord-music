@@ -25,7 +25,6 @@
     "registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
-    "youtube-sr": "^4.3.4",
-    "@CyraTeams/discord-music": "1.0.0"
+    "youtube-sr": "^4.3.4"
   }
 }
