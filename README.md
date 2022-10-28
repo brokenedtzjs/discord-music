@@ -24,7 +24,7 @@ Or add this package to your `package.json` file:
 ```
 
 ## Requirements
-- Node.js 16.9.0 or higher
+- [Node.js](https://nodejs.org) 16.9.0 or higher
 - [discord.js](https://discord.js.org) v13
 - [@discordjs/voice](https://github.com/discordjs/voice)
 - [FFmpeg](https://www.ffmpeg.org/download.html)
