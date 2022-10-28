@@ -31,7 +31,23 @@ module.exports = music;
 ```
 
 ```js
-music.on('playing', (queue, music) => {
+music.on('playing', (queue, song) => {
   //code
 )};
+```
+
+## Example
+```js
+const DiscordMusic = require('@brokenedtzjs/discord-music');
+const music = new DiscordMusic(client, {
+  LeaveIfEmpty: true, //true = if channel is empty bot will leave the channel
+  LeaveIfFinish: true, //true = if song played finish bot will leave the channel
+  LeaveCooldown: 3, //seconds (leave cooldown)
+});
+```
+
+```js
+music.on('playing', (queue, song) => {
+  queue.channel.send(`Playing ${song.name}`);
+});
 ```
