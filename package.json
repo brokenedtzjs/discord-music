@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/CyraTeams/discord-music#readme",
   "publishConfig": {
-    "@brokenedtz:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
     "youtube-sr": "^4.3.4"
