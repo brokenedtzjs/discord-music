@@ -1,12 +1,10 @@
 # discord-music
 <div align='center'>
 <a><strong>Simply Discord Music</strong></a>
-<p>
-    <a href="https://github.com/brokenedtz/discord-music/actions" target="_blank"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/brokenedtzjs/discord-music/Testing?label=Tests&logo=github&style=flat-square"></a>
-    <br>
-    <a href="https://github.com/brokenedtzjs/discord-music/stargazers" target="_blank"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/brokenedtzjs/discord-music?logo=github&logoColor=white&style=flat-square"></a>
-  </p>
-</div>
+
+[![Visistors](https://visitor-badge.glitch.me/badge?page_id=brokenedtzjs.discord-music)](https://github.com/brokenedtzjs/discord-music)
+[![Discord](https://img.shields.io/discord/984857299858382908?label=CyraTeam&logo=discord)](https://cyrabot.groups.id/discord/)
+[![Stars](https://img.shields.io/github/stars/brokenedtzjs/discord-music?logo=github)](https://github.com/brokenedtzjs/discord-music)
 </div>
 
 ## Installation
