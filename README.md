@@ -15,14 +15,6 @@
 $ npm install @brokenedtzjs/discord-music@latest
 ```
 
-Or add this package to your `package.json` file:
-
-```json
-"dependencies": {
-    "@codertocat/hello-world-npm": "1.0.0"
-}
-```
-
 ## Requirements
 - [Node.js](https://nodejs.org) 16.9.0 or higher
 - [discord.js](https://discord.js.org) v13
