@@ -1,6 +1,6 @@
 # discord-music
 <div align='center'>
-<h2><strong>Simply discord music</strong></h2>
+<a><strong>Simply Discord Music</strong></a>
 <p>
     <a href="https://github.com/brokenedtz/discord-music/actions" target="_blank"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/brokenedtzjs/discord-music/Testing?label=Tests&logo=github&style=flat-square"></a>
     <br>
@@ -15,14 +15,26 @@
 
 Or add this package to your `package.json` file:
 
-```
+```json
 "dependencies": {
     "@codertocat/hello-world-npm": "1.0.0"
-  }
+}
 ```
 
-## Usage
+## Requirements
 
+
+## Quick Start
+```js
+const DiscordMusic = require('@brokenedtzjs/discord-music');
+const music = new DiscordMusic(client, {
+  //code
+});
+module.exports = music;
 ```
-const 
+
+```js
+music.on('playing', (queue, music) => {
+  //code
+)};
 ```
