@@ -21,9 +21,6 @@
     "url": "https://github.com/brokenedtzjs/discord-music/issues"
   },
   "homepage": "https://github.com/brokenedtzjs/discord-music#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "dependencies": {
     "youtube-sr": "^4.3.4"
   }
