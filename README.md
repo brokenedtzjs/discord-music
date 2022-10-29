@@ -2,6 +2,12 @@
 <div align='center'>
 <a><strong>Simply Discord Music</strong></a>
 
+- Based on [@discordjs/voice](https://github.com/discordjs/voice) and [DisTube](https://github.com/skick1234/DisTube)
+- Easy to use and customize
+- Support YouTube and audio link
+- Audio filters (bassboost, nightcore, vaporwave, and more)
+- Autoplay related songs
+
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=brokenedtzjs.discord-music)](https://github.com/brokenedtzjs/discord-music)
 [![Discord](https://img.shields.io/discord/984857299858382908)](https://discord.gg/YyzghaDU9C)
 [![Stars](https://img.shields.io/github/stars/brokenedtzjs/discord-music?logo=github)](https://github.com/brokenedtzjs/discord-music)
