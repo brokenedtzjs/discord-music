@@ -13,7 +13,12 @@ Simply Discord Music
 
 ## Features
 
-- Based on [@discordjs/voice](https://github.com/discordjs/voice) and [DisTube](https://github.com/skick1234/DisTube)
+- Based on
+- [@discordjs/voice](https://github.com/discordjs/voice)
+- [DisTube](https://github.com/skick1234/DisTube)
+- [@distube/ytdl-core](https://github.com/skick1234/DisTube)
+- [@distube/ytpl](https://github.com/skick1234/DisTube)
+- [@distube/ytsr](https://github.com/skick1234/DisTube)
 - Easy to use and customize
 - Support YouTube and audio link
 - Audio filters (bassboost, nightcore, vaporwave, and more)
@@ -62,7 +67,7 @@ const music = new DiscordMusic(client, {
 
 ```js
 music.on('playing', (queue, song) => {
-  queue.channel.send(`Playing ${song.name} | ${song.duration}`); //send message when music start playing
+  queue.VoiceChannel.send(`Playing ${song.name} | ${song.duration}`); //send message when music start playing
 });
 ```
 
@@ -70,6 +75,6 @@ music.on('playing', (queue, song) => {
 
 ```js
 music.on('addSong', (queue, song) => {
-  queue.channel.send(`Queue Added ${song.name} | ${song.duration}`); //send message when added song to queue
+  queue.VoiceChannel.send(`Queue Added ${song.name} | ${song.duration}`); //send message when added song to queue
 });
 ```
