@@ -1,8 +1,8 @@
 {
   "name": "@brokenedtzjs/discord-music",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simply discord music",
-  "main": "src/index.ts",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"No test specified\""
   },
