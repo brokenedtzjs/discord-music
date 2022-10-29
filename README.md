@@ -49,8 +49,18 @@ const music = new DiscordMusic(client, {
 });
 ```
 
+## Playing
+
 ```js
 music.on('playing', (queue, song) => {
-  queue.channel.send(`Playing ${song.name}`);
+  queue.channel.send(`Playing ${song.name} | ${song.duration}`); //send message when music start playing
+});
+```
+
+## AddSong
+
+```js
+music.on('addSong', (queue, song) => {
+  queue.channel.send(`Queue Added ${song.name} | ${song.duration}`); //send message when added song to queue
 });
 ```
