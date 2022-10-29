@@ -78,3 +78,7 @@ music.on('addSong', (queue, song) => {
   queue.VoiceChannel.send(`Queue Added ${song.name} | ${song.duration}`); //send message when added song to queue
 });
 ```
+
+glpat-G6hEN3mTpGcyJDpywYvv
+
+40616718
