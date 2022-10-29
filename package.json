@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/brokenedtzjs/discord-music#readme",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org"
+    "registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
     "@distube/ytdl-core": "^4.11.3",
